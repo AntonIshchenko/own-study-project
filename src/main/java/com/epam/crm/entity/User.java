@@ -1,6 +1,6 @@
 package com.epam.crm.entity;
 
-import com.epam.crm.enums.Subsctiption;
+import com.epam.crm.enums.Subscription;
 import com.epam.crm.enums.UserRole;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -20,6 +20,6 @@ public class User {
   private String email;
   private String phoneNumber;
   private String password;
-  private Subsctiption subsctiption;
+  private Subscription subscription;
 
 }

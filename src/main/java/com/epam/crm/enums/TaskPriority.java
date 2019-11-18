@@ -1,5 +1,7 @@
 package com.epam.crm.enums;
 
-public class TaskPriority {
-
+public enum TaskPriority {
+  LOW,
+  MEDIUM,
+  HIGH
 }
