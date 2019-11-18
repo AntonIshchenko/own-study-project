@@ -1,3 +1,13 @@
+target/
+.idea/
+.idea/workspace.xml
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+own-study-project.iml
+
 # Compiled class file
 *.class
 
