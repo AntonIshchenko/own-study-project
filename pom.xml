@@ -133,6 +133,13 @@
       <version>1.18.10</version>
       <scope>provided</scope>
     </dependency>
+
+    <!--        DB -->
+    <dependency>
+      <groupId>com.h2database</groupId>
+      <artifactId>h2</artifactId>
+      <version>1.4.199</version>
+    </dependency>
   </dependencies>
 
 </project>
